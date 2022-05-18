@@ -1,4 +1,4 @@
-package group2;
+package group2.chapter3array;
 
 import java.sql.SQLOutput;
 
