@@ -1,20 +1,21 @@
-package group3.Figure;
+package HomeWork.FigureHW.Figure;
 
-public class Figure3 {
+public class Figure1 {
     /*
-     * * * * *
-     * * * *
-     * * *
-     * *
      *
+     * *
+     * * *
+     * * * *
+     * * * * *
      */
     public static void main(String[] args) {
         for (int i = 0; i <5 ; i++) {
-            for (int j =i; j <=4 ; j++) {
+            for (int j = 0; j <=i ; j++) {
                 System.out.print(" *");
 
             }
             System.out.println(" ");
         }
+
     }
 }

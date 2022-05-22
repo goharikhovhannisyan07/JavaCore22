@@ -1,6 +1,4 @@
-package group3.Independentwork;
-
-import java.sql.SQLOutput;
+package HomeWork.FigureHW.Independentwork;
 
 public class FigureHomeWork2 {
     /*

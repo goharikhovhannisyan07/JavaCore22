@@ -1,4 +1,4 @@
-package HomeWork.ArrayUntil;
+package HomeWork.ArrayUntilHW;
 
 public class ArrayExample {
     public static void main(String[] args) {
