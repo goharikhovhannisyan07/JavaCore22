@@ -1,4 +1,4 @@
-package HomeWork.FigureHW.Independentwork;
+package group1.HomeWork.FigureHW.Independentwork;
 
 public class FigureHomeWork {
 

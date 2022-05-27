@@ -1,4 +1,4 @@
-package HomeWork.ArrayUntilHW;
+package group1.HomeWork.ArrayUntilHW;
 
 public class CharArrayExamples {
     public static void main(String[] args) {
@@ -26,11 +26,11 @@ public class CharArrayExamples {
         }
         System.out.println(result);
 //4
-       char[]bobArray={'b','a','b','o','l','a'};
-       boolean bobresult=false;
-        for (int i = 0; i < bobArray.length ; i++) {
-            if (bobArray[i]=='b'&&bobArray[i+2]=='b'){
-                bobresult=true;
+        char[] bobArray = {'b', 'a', 'b', 'o', 'l', 'a'};
+        boolean bobresult = false;
+        for (int i = 0; i < bobArray.length; i++) {
+            if (bobArray[i] == 'b' && bobArray[i + 2] == 'b') {
+                bobresult = true;
                 break;
 
             }
@@ -38,13 +38,13 @@ public class CharArrayExamples {
         }
         System.out.println("bobresult = " + bobresult);
 //5
-        char[] spaceArray = {' ',' ','b','a','r','e','v',' ',' '};
+        char[] spaceArray = {' ', ' ', 'b', 'a', 'r', 'e', 'v', ' ', ' '};
         for (char c1 : spaceArray) {
-            if (c1 !=' '){
+            if (c1 != ' ') {
                 System.out.print(c1);
 
             }
-            
+
         }
 
     }

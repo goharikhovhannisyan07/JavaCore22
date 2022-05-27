@@ -1,4 +1,4 @@
-package HomeWork.FigureHW.FigureHomework;
+package group1.HomeWork.FigureHW.FigureHomework;
 
 public class FigureSecond {
 /*

@@ -1,4 +1,4 @@
-package HomeWork.ArrayUntilHW;
+package group1.HomeWork.ArrayUntilHW;
 
 public class ArayUtil {
     public static void main(String[] args) {
