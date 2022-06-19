@@ -2,16 +2,22 @@ package group2.Chapter7;
 
 public class Test {
     int a, b;
+    Test (int i, int j){
+        a=i;
+        b=j;
 
-    Test(int i, int j) {
-        a = i;
-        b = j;
     }
+    boolean equalTo(Test o){
+        if (o.a==a && o.b==b)return true;
+        else return  false;
 
-    boolean equalTo(Test o) {
-        if (o.a == a && o.b == b) return true;
-        else return false;
+
     }
+    public  void setc(){
 
+    }
+    public String getc() {
 
+        return null;
+    }
 }

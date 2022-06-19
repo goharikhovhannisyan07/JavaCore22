@@ -4,7 +4,7 @@ public class PracticeDemo {
     public static void main(String[] args) {
         Practice practice = new Practice();
         System.out.println(practice.convert(60));
-        System.out.println(practice.calcAge(21));
+        System.out.println(practice.calcAge(47));
         System.out.println(practice.nextNumber(25));
         System.out.println(practice.isSameNum(10, 8));
         System.out.println(practice.lessThanOrEqualToZero(-9));
