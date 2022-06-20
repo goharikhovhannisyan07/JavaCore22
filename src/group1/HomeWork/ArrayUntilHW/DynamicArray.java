@@ -32,4 +32,14 @@ public class DynamicArray {
         array = temp;
     }
 
+    public void isEmpty() {
+        if (array.length == 0)
+            System.out.println(true);
+        else System.out.println(false);
+    }
+    public void getByIndex(){
+
+    }
+
+
 }
